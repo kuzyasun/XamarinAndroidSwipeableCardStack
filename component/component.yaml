@@ -1,7 +1,7 @@
 %YAML 1.2
 ---
 name: AndroidSwipeableCardStack
-id: android_swipeable_card_stack
+id: androidswipeablecardstack
 publisher: Kuzyasun
 license: License.md
 icons:
