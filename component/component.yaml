@@ -1,0 +1,28 @@
+%YAML 1.2
+---
+name: AndroidSwipeableCardStack
+id: android_swipeable_card_stack
+publisher: Kuzyasun
+license: License.md
+icons:
+  - icons/icon_128x128.png
+  - icons/icon_512x512.png
+publisher-url: https://github.com/kuzyasun/XamarinAndroidSwipeableCardStack
+build:
+  - ../src/XamarinAndroidSwipeableCardStack/XamarinAndroidSwipeableCardStack.sln
+libraries:
+  android: ../src/XamarinAndroidSwipeableCardStack/XamarinAndroidSwipeableCardStack/bin/release/XamarinAndroidSwipeableCardStack.dll
+summary: A tinder like swipeable card stack component. Provide "swipe to like" effects. Easy to customize card views.
+details: Details.md
+screenshots:
+  - screenshots/anim.gif
+  - screenshots/screen_1.png
+  - screenshots/screen_2.png
+  - screenshots/screen_3.png
+getting-started: GettingStarted.md
+version: "1.0.0"
+samples:
+  - name: "Android Sample"
+    path: ../samples/SwipeableCardStackDemoApp/SwipeableCardStackDemoApp.sln
+    configuration: "Release|AnyCPU"
+    nobuild: true
