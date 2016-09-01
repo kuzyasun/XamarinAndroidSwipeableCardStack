@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwipeableCardStackDemoApp", "SwipeableCardStackDemoApp\SwipeableCardStackDemoApp.csproj", "{49A3B90E-A4DF-4B13-A803-F6EA3593E6ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAndroidSwipeableCardStack", "..\XamarinAndroidSwipeableCardStack\XamarinAndroidSwipeableCardStack\XamarinAndroidSwipeableCardStack.csproj", "{1BF915F2-4A26-4962-812A-D7BD3D5C4E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A3B90E-A4DF-4B13-A803-F6EA3593E6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A3B90E-A4DF-4B13-A803-F6EA3593E6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A3B90E-A4DF-4B13-A803-F6EA3593E6ED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{49A3B90E-A4DF-4B13-A803-F6EA3593E6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A3B90E-A4DF-4B13-A803-F6EA3593E6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A3B90E-A4DF-4B13-A803-F6EA3593E6ED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1BF915F2-4A26-4962-812A-D7BD3D5C4E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF915F2-4A26-4962-812A-D7BD3D5C4E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF915F2-4A26-4962-812A-D7BD3D5C4E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF915F2-4A26-4962-812A-D7BD3D5C4E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
