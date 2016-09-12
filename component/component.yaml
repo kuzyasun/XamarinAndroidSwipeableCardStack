@@ -20,7 +20,7 @@ screenshots:
   - screenshots/screen_2.png
   - screenshots/screen_3.png
 getting-started: GettingStarted.md
-version: "1.0.0"
+version: "1.0.1"
 samples:
   - name: "Android Sample"
     path: ../samples/SwipeableCardStackDemoApp/SwipeableCardStackDemoApp.sln
